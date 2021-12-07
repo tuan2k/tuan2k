@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tuan2k
-- 👀 I’m interested in Laravel and Spring
-- 🌱 I’m currently learning Laravel and vue 
+- 👀 I’m interested in Laravel and Spring and Vue
+- 🌱 I’m currently learning build Dapp in Ethereum, Binance Smart Chain and Near Protocol
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at: treynguyen2k.it@gmail.com
 
 <!---
 tuan2k/tuan2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
